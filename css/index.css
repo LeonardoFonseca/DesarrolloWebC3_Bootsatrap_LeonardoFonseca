@@ -1,0 +1,47 @@
+
+
+/*FondoSecundario*/
+body{
+    background-color: rgb(0, 0, 0);
+    font-family: 'Roboto', sans-serif;
+}
+/*FondoGeneral*/
+.container{
+    background-color: #fff;
+/*header*/
+}
+.cabecera {
+    background-image: url(../img/Header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cabecera .imagen {
+   width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.cabecera .imagen img {
+    width: 60%;
+}
+
+.redes_sociales {
+    min-height: 4rem;
+    
+}
+/*Fin Header*/
+
+/*Iconos Generales*/
+
+ .iconos {
+    font-size: 2rem;
+    color: #ffffff;
+    padding: 3px;
+    margin: 2px;
+}
+
+/*Barral Lateral*/
+aside .iconos{
+    font-size: 2rem;
+    color:red;
+}
